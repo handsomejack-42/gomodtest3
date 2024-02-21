@@ -4,4 +4,4 @@ go 1.22.0
 
 require github.com/handsomejack-42/gomodtest2 v0.0.1
 
-require github.com/handsomejack-42/gomodtest1 v0.0.1 // indirect
+require github.com/handsomejack-42/gomodtest1 v0.0.2 // indirect
